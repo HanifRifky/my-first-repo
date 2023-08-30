@@ -6,4 +6,5 @@ NPM    : 2206818846
 
 Kelas  : PBP F
 
-Hobi
+Jurusan: Ilmu Komputer
+
